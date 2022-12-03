@@ -2,6 +2,7 @@
 a user login system, could register with email, change their password under forgetting password through email . And the LogIn system with a DBMS.
 This is an extension for the RateMyUni java program LogIn Sys.
 CHANGES:
-1. Adding email verification.
+1. Implemented a secure register \& login system that requires a Multi-Factor Authentication using Email
+Imple
 2. Data originally stored through the java Serialization. --> DBMS
-3. web achieving and GUI
+3. web achieving and implement a fully functional GUI that allows the users to execute complex instructions
