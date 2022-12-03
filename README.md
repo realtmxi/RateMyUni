@@ -1,7 +1,7 @@
-# LogIn-Sys
-a user login system, could register with email, change their password under forgetting password through email . And the LogIn system with a DBMS.
-This is an extension for the RateMyUni java program LogIn Sys.
-CHANGES:
+# RateMyUni
+A project dedicated for students to rate universities around the globe
+
+Changes:
 1. Implemented a secure register \& login system that requires a Multi-Factor Authentication using Email
 Imple
 2. Data originally stored through the java Serialization. --> DBMS
